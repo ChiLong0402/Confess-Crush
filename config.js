@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Ngọc Phương',
+    titleWeb: "Dô đây dui lắm nà :>>>",
+    introTitle: 'Phan Ly Ly',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -12,7 +12,7 @@ const CONFIG = {
     btnNo: 'Không nha :3',
     question: 'Còn chờ gì mà k check ib nè 😘 ',
     btnReply: 'Gửi cho bạn <3',
-    mess: 'Hết dịch ẵm đi chơi dới tui nha 🙆🏿‍♂🙆🏿‍♂',
+    mess: 'Hết dịch ẵm đi chơi dới tui nha ❣️🙆🏿‍♂🙆🏿‍♂',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://github.com/chilong/Confess-Crush'
 }
